@@ -1,5 +1,5 @@
 ---
-description: Phase 2: Guided Practice — content coming soon.
+description: "Phase 2: Guided Practice — content coming soon."
 ---
 
 # Phase 2: Guided Practice

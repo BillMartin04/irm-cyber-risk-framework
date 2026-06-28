@@ -1,5 +1,5 @@
 ---
-description: Phase 4: Strategic Synthesis — content coming soon.
+description: "Phase 4: Strategic Synthesis — content coming soon."
 ---
 
 # Phase 4: Strategic Synthesis

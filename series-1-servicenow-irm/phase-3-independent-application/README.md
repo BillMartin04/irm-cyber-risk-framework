@@ -1,5 +1,5 @@
 ---
-description: Phase 3: Independent Application — content coming soon.
+description: "Phase 3: Independent Application — content coming soon."
 ---
 
 # Phase 3: Independent Application

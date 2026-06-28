@@ -1,5 +1,5 @@
 ---
-description: Phase 1: Foundations — content coming soon.
+description: "Phase 1: Foundations — content coming soon."
 ---
 
 # Phase 1: Foundations
