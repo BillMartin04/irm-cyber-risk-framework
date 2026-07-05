@@ -40,6 +40,14 @@
 ## Series 2: Open Source GRC
 
 * [Series 2 Overview](series-2-open-source-grc/series-2-overview.md)
+  * [Introduction to Open-Source GRC](series-2-open-source-grc/introduction-to-open-source-grc.md)
+  * [Eramba - Setup and Risk Register](series-2-open-source-grc/eramba-setup-and-risk-register.md)
+  * [Eramba - Controls and Policies](series-2-open-source-grc/eramba-controls-and-policies.md)
+  * [OpenComply - Cloud Compliance Automation](series-2-open-source-grc/opencomply-cloud-compliance-automation.md)
+  * [Building a Lightweight GRC Stack](series-2-open-source-grc/building-a-lightweight-grc-stack.md)
+  * [Audit-Readiness on Open Source](series-2-open-source-grc/audit-readiness-on-open-source.md)
+  * [Open-Source vs. Commercial GRC](series-2-open-source-grc/open-source-vs-commercial-grc.md)
+  * [When to Migrate](series-2-open-source-grc/when-to-migrate.md)
 
 ## Industry Use Cases
 
