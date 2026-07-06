@@ -1,5 +1,5 @@
 ---
-description: What Series 2 (Open Source GRC) will cover.
+description: "What Series 2 (Open Source GRC) will cover."
 ---
 
 # Series 2 Overview
