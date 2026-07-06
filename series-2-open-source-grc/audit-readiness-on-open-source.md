@@ -1,5 +1,5 @@
 ---
-description: Producing an audit trail from open-source tools that an examiner or external auditor will accept.
+description: "Producing an audit trail from open-source tools that an examiner or external auditor will accept."
 ---
 
 # Audit-Readiness on Open Source
