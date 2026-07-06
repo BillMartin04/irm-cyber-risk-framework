@@ -1,5 +1,5 @@
 ---
-description: Connecting OpenComply to a cloud environment, mapping findings to frameworks, and auto-generating evidence.
+description: "Connecting OpenComply to a cloud environment, mapping findings to frameworks, and auto-generating evidence."
 ---
 
 # OpenComply — Cloud Compliance Automation
