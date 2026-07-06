@@ -1,5 +1,5 @@
 ---
-description: Installing Eramba, configuring a risk register, and running a basic risk assessment.
+description: "Installing Eramba, configuring a risk register, and running a basic risk assessment."
 ---
 
 # Eramba — Setup and Risk Register
