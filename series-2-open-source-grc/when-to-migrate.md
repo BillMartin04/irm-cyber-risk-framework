@@ -1,5 +1,5 @@
 ---
-description: Signals that you have outgrown open-source tooling, and a framework for moving to a commercial platform.
+description: "Signals that you have outgrown open-source tooling, and a framework for moving to a commercial platform."
 ---
 
 # When to Migrate
