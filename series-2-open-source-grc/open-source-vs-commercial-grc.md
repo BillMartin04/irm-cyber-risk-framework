@@ -1,5 +1,5 @@
 ---
-description: Head-to-head comparison of what you get with Eramba vs. ServiceNow IRM, and where the gaps are.
+description: "Head-to-head comparison of what you get with Eramba vs. ServiceNow IRM, and where the gaps are."
 ---
 
 # Open-Source vs. Commercial GRC
