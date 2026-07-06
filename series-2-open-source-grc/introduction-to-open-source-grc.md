@@ -1,5 +1,5 @@
 ---
-description: Why open source, when it makes sense, and when it does not; audience and use cases.
+description: "Why open source, when it makes sense, and when it does not; audience and use cases."
 ---
 
 # Introduction to Open-Source GRC
