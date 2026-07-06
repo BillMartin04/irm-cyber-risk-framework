@@ -1,5 +1,5 @@
 ---
-description: Risk register in Airtable or Notion, evidence store in S3/SharePoint, control testing via scripts.
+description: "Risk register in Airtable or Notion, evidence store in S3/SharePoint, control testing via scripts."
 ---
 
 # Building a Lightweight GRC Stack
