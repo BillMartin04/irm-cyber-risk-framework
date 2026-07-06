@@ -1,5 +1,5 @@
 ---
-description: Building a control library, linking controls to risks, and managing policy attestations.
+description: "Building a control library, linking controls to risks, and managing policy attestations."
 ---
 
 # Eramba — Controls and Policies
