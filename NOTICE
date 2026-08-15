@@ -24,11 +24,16 @@ Parallel open-source course:
     ServiceNow Developer Course
     https://github.com/BillMartin04/servicenow-developer-course
 
+Copyright
+---------
+Copyright (c) 2026 Bill Martin (TechTalk with Bill).
+
 Licensing
 ---------
-Course content: Creative Commons Attribution 4.0 International (CC BY 4.0)
-Source code and configuration: MIT License
-See LICENSE for full text.
+Course content:                Creative Commons Attribution 4.0 International
+                               (CC BY 4.0) — see LICENSE for full legal text.
+Source code and configuration: MIT License — see LICENSE-CODE.
+Dual-license explanation:      LICENSING.md.
 
 Attribution requirement
 -----------------------
