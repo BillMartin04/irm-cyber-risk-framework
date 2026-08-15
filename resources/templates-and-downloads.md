@@ -4,6 +4,17 @@ description: Course templates and downloadable artefacts.
 
 # Templates and Downloads
 
+
+{% hint style="info" %}
+### 📺 Watch on YouTube
+
+**Video title:** *Templates and Downloads — Cybersecurity Certification Prep Explained (2026)*
+**Channel:** [TechTalk with Bill](https://www.youtube.com/@techtalkwithbill)
+**Length:** 8–14 min · **Status:** 🎬 In production — subscribe to be notified when this video is published.
+
+▶ [Subscribe to be notified](https://www.youtube.com/@techtalkwithbill?sub_confirmation=1) · ⭐ [Star the repo](https://github.com/BillMartin04/irm-cyber-risk-framework)
+{% endhint %}
+
 Templates are published progressively alongside the video lessons.
 
 - **GRC Charter Template** — Module 1.5.

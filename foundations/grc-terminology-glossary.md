@@ -4,6 +4,17 @@ description: Core GRC vocabulary used throughout the course.
 
 # GRC Terminology Glossary
 
+
+{% hint style="info" %}
+### 📺 Watch on YouTube
+
+**Video title:** *GRC Terminology Glossary — Cyber Risk Management Fundamentals Explained (2026)*
+**Channel:** [TechTalk with Bill](https://www.youtube.com/@techtalkwithbill)
+**Length:** 10–14 min · **Status:** 🎬 In production — subscribe to be notified when this video is published.
+
+▶ [Subscribe to be notified](https://www.youtube.com/@techtalkwithbill?sub_confirmation=1) · ⭐ [Star the repo](https://github.com/BillMartin04/irm-cyber-risk-framework)
+{% endhint %}
+
 - **Appetite** — the amount of risk the board is willing to accept in pursuit of strategy.
 - **Assessment** — a recurring evidence-collection pass against a risk, control, or authority document.
 - **Authority Document** — an external framework or regulation citated by internal controls (e.g., NIST CSF, ISO 27001, PCI DSS).

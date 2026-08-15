@@ -4,6 +4,17 @@ description: Open-source license, copyright, and how to cite this course.
 
 # License, Attribution, and Citation
 
+
+{% hint style="info" %}
+### 📺 Watch on YouTube
+
+**Video title:** *License, Attribution, and Citation — Open Source Cyber Risk License Explained (2026)*
+**Channel:** [TechTalk with Bill](https://www.youtube.com/@techtalkwithbill)
+**Length:** 6–10 min · **Status:** 🎬 In production — subscribe to be notified when this video is published.
+
+▶ [Subscribe to be notified](https://www.youtube.com/@techtalkwithbill?sub_confirmation=1) · ⭐ [Star the repo](https://github.com/BillMartin04/irm-cyber-risk-framework)
+{% endhint %}
+
 ## Open-source license
 
 This course is published as an **Open Educational Resource (OER)** under a dual open-source license.

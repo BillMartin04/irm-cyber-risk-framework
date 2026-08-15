@@ -4,6 +4,17 @@ description: The Four Lines of Defense model this entire course is aligned to.
 
 # The 4LOD Model — Course-Wide Frame
 
+
+{% hint style="info" %}
+### 📺 Watch on YouTube
+
+**Video title:** *The 4LOD Model — Course-Wide Frame — Cyber Risk Course Roadmap Explained (2026)*
+**Channel:** [TechTalk with Bill](https://www.youtube.com/@techtalkwithbill)
+**Length:** 8–12 min · **Status:** 🎬 In production — subscribe to be notified when this video is published.
+
+▶ [Subscribe to be notified](https://www.youtube.com/@techtalkwithbill?sub_confirmation=1) · ⭐ [Star the repo](https://github.com/BillMartin04/irm-cyber-risk-framework)
+{% endhint %}
+
 Every module in this course lists which line or lines of defense it primarily serves. Read this page first — it is the shared vocabulary the rest of the course assumes.
 
 ## The four lines

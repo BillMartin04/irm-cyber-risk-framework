@@ -4,6 +4,17 @@ description: What cyber risk management actually is — and what it is not.
 
 # What Is Cyber Risk Management
 
+
+{% hint style="info" %}
+### 📺 Watch on YouTube
+
+**Video title:** *What Is Cyber Risk Management — Cyber Risk Management Fundamentals Explained (2026)*
+**Channel:** [TechTalk with Bill](https://www.youtube.com/@techtalkwithbill)
+**Length:** 10–14 min · **Status:** 🎬 In production — subscribe to be notified when this video is published.
+
+▶ [Subscribe to be notified](https://www.youtube.com/@techtalkwithbill?sub_confirmation=1) · ⭐ [Star the repo](https://github.com/BillMartin04/irm-cyber-risk-framework)
+{% endhint %}
+
 Cyber risk management is the disciplined process of identifying, analysing, treating, and monitoring the events that could stop the organisation from meeting its objectives through the loss or compromise of information systems. It is not compliance. It is not security operations. It is the layer above both that connects technical exposure to business decisions.
 
 ## The four questions cyber risk management must answer

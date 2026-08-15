@@ -4,6 +4,17 @@ description: How the course modules land in fintech and high-growth startups.
 
 # Fintech and Startups
 
+
+{% hint style="info" %}
+### 📺 Watch on YouTube
+
+**Video title:** *Fintech and Startups — Cyber Risk Industry Use Cases Explained (2026)*
+**Channel:** [TechTalk with Bill](https://www.youtube.com/@techtalkwithbill)
+**Length:** 10–15 min · **Status:** 🎬 In production — subscribe to be notified when this video is published.
+
+▶ [Subscribe to be notified](https://www.youtube.com/@techtalkwithbill?sub_confirmation=1) · ⭐ [Star the repo](https://github.com/BillMartin04/irm-cyber-risk-framework)
+{% endhint %}
+
 Fintech and high-growth startups need a defensible cyber-risk program before they have the headcount to run a traditional one. The winning pattern is aggressive automation of the 2nd-line function and lean-but-defensible artefacts.
 
 ## Priority modules

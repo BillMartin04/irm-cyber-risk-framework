@@ -4,6 +4,17 @@ description: Who this masterclass is for, and who it is not.
 
 # Who This Course Is For
 
+
+{% hint style="info" %}
+### 📺 Watch on YouTube
+
+**Video title:** *Who This Course Is For — Cyber Risk Course Roadmap Explained (2026)*
+**Channel:** [TechTalk with Bill](https://www.youtube.com/@techtalkwithbill)
+**Length:** 8–12 min · **Status:** 🎬 In production — subscribe to be notified when this video is published.
+
+▶ [Subscribe to be notified](https://www.youtube.com/@techtalkwithbill?sub_confirmation=1) · ⭐ [Star the repo](https://github.com/BillMartin04/irm-cyber-risk-framework)
+{% endhint %}
+
 ## Primary audiences
 
 - **Aspiring and mid-career GRC professionals** — analysts, risk officers, IT auditors, compliance specialists — who want to move from operating a compliance calendar to architecting a defensible enterprise program.

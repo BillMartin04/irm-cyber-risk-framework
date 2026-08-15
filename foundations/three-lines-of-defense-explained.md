@@ -8,6 +8,17 @@ description: The Three Lines model and its roles.
 **Video coming soon.** The link below is a placeholder until the video is published.
 {% endhint %}
 
+{% hint style="info" %}
+### 📺 Watch on YouTube
+
+**Video title:** *Three Lines of Defense Explained — Cyber Risk Management Fundamentals Explained (2026)*
+**Channel:** [TechTalk with Bill](https://www.youtube.com/@techtalkwithbill)
+**Length:** 10–14 min · **Status:** 🎬 In production — subscribe to be notified when this video is published.
+
+▶ [Subscribe to be notified](https://www.youtube.com/@techtalkwithbill?sub_confirmation=1) · ⭐ [Star the repo](https://github.com/BillMartin04/irm-cyber-risk-framework)
+{% endhint %}
+
+
 {% embed url="https://www.youtube.com/watch?v=PLACEHOLDER" %}
 Three Lines of Defense Explained — video placeholder
 {% endembed %}

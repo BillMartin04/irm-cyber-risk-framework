@@ -4,6 +4,17 @@ description: The Enterprise Insider membership tier.
 
 # Enterprise Insider Tier
 
+
+{% hint style="info" %}
+### 📺 Watch on YouTube
+
+**Video title:** *Enterprise Insider Tier — Cybersecurity Youtube Membership Explained (2026)*
+**Channel:** [TechTalk with Bill](https://www.youtube.com/@techtalkwithbill)
+**Length:** 5–8 min · **Status:** 🎬 In production — subscribe to be notified when this video is published.
+
+▶ [Subscribe to be notified](https://www.youtube.com/@techtalkwithbill?sub_confirmation=1) · ⭐ [Star the repo](https://github.com/BillMartin04/irm-cyber-risk-framework)
+{% endhint %}
+
 The top tier, aimed at CISOs, heads of risk, and external advisors.
 
 Includes everything in Architect Pro, plus:

@@ -4,6 +4,17 @@ description: Which lessons to attack first, based on your role and goal.
 
 # Learning Path Recommendations
 
+
+{% hint style="info" %}
+### 📺 Watch on YouTube
+
+**Video title:** *Learning Path Recommendations — Cyber Risk Course Roadmap Explained (2026)*
+**Channel:** [TechTalk with Bill](https://www.youtube.com/@techtalkwithbill)
+**Length:** 8–12 min · **Status:** 🎬 In production — subscribe to be notified when this video is published.
+
+▶ [Subscribe to be notified](https://www.youtube.com/@techtalkwithbill?sub_confirmation=1) · ⭐ [Star the repo](https://github.com/BillMartin04/irm-cyber-risk-framework)
+{% endhint %}
+
 ## Path A — Aspiring GRC Analyst
 
 Modules 1 → 2 → 3 → 4 → 5 → 15 → 20. Focus on producing every module deliverable and building a portfolio.

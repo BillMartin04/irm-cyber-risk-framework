@@ -4,6 +4,17 @@ description: The regulatory landscape you will need to navigate.
 
 # Regulatory Landscape Overview
 
+
+{% hint style="info" %}
+### 📺 Watch on YouTube
+
+**Video title:** *Regulatory Landscape Overview — Cyber Risk Management Fundamentals Explained (2026)*
+**Channel:** [TechTalk with Bill](https://www.youtube.com/@techtalkwithbill)
+**Length:** 10–14 min · **Status:** 🎬 In production — subscribe to be notified when this video is published.
+
+▶ [Subscribe to be notified](https://www.youtube.com/@techtalkwithbill?sub_confirmation=1) · ⭐ [Star the repo](https://github.com/BillMartin04/irm-cyber-risk-framework)
+{% endhint %}
+
 The regulatory landscape is dense and moving fast. This page names the frameworks and regulations you will encounter in the course, grouped by function. Each is treated in depth in the module that owns it.
 
 ## Framework backbones

@@ -9,9 +9,22 @@ description: Building Vendor, Cloud, and AI Governance Addenda
 {% endhint %}
 
 {% hint style="info" %}
-**Watch — 19.4 · Building Vendor, Cloud, and AI Governance Addenda**
+### 📺 Watch on YouTube
 
-A short video lesson accompanies this page. Video links are placeholders until the recording is published to the [TechTalk with Bill YouTube channel](https://www.youtube.com/@techtalkwithbill). Subscribe to be notified when this lesson goes live.
+**Video title:** *Building Vendor, Cloud, and AI Governance Addenda — Cyber Risk Architect Capstone (2026)*
+**Channel:** [TechTalk with Bill](https://www.youtube.com/@techtalkwithbill)
+**Length:** 12–18 min · **Status:** 🎬 In production — subscribe to be notified when this video is published.
+
+**Chapters** (planned)
+- 00:00 Intro & why this lesson matters
+- 01:30 Definitions and first principles
+- 03:30 Four-Lines-of-Defense mapping
+- 05:30 ServiceNow implementation walkthrough
+- 08:00 Live in action inside Lumina (open source)
+- 10:30 Apply this at your organisation this week
+- 12:00 Done-When checklist & next lesson
+
+▶ [Subscribe to be notified](https://www.youtube.com/@techtalkwithbill?sub_confirmation=1) · ⭐ [Star the repo](https://github.com/BillMartin04/irm-cyber-risk-framework) · 💬 [Suggest a topic](https://github.com/BillMartin04/irm-cyber-risk-framework/issues)
 {% endhint %}
 ## Read
 

@@ -4,6 +4,17 @@ description: How to spin up a ServiceNow IRM demo environment to follow the plat
 
 # ServiceNow IRM Demo Environment
 
+
+{% hint style="info" %}
+### 📺 Watch on YouTube
+
+**Video title:** *ServiceNow IRM Demo Environment — Open Source Cyber Risk Tool Explained (2026)*
+**Channel:** [TechTalk with Bill](https://www.youtube.com/@techtalkwithbill)
+**Length:** 12–18 min · **Status:** 🎬 In production — subscribe to be notified when this video is published.
+
+▶ [Subscribe to be notified](https://www.youtube.com/@techtalkwithbill?sub_confirmation=1) · ⭐ [Star the repo](https://github.com/BillMartin04/irm-cyber-risk-framework)
+{% endhint %}
+
 ## Personal Developer Instance (PDI)
 
 Every ServiceNow-native lesson in this course can be followed on a free **Personal Developer Instance (PDI)** from [developer.servicenow.com](https://developer.servicenow.com). Sign up, request an instance, and note that PDIs hibernate after ~10 days of inactivity — wake yours before each session.

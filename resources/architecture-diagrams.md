@@ -4,6 +4,17 @@ description: Reference architecture diagrams used across the course.
 
 # Architecture Diagrams
 
+
+{% hint style="info" %}
+### 📺 Watch on YouTube
+
+**Video title:** *Architecture Diagrams — Cybersecurity Certification Prep Explained (2026)*
+**Channel:** [TechTalk with Bill](https://www.youtube.com/@techtalkwithbill)
+**Length:** 8–14 min · **Status:** 🎬 In production — subscribe to be notified when this video is published.
+
+▶ [Subscribe to be notified](https://www.youtube.com/@techtalkwithbill?sub_confirmation=1) · ⭐ [Star the repo](https://github.com/BillMartin04/irm-cyber-risk-framework)
+{% endhint %}
+
 Diagrams are published alongside the corresponding module. Where a lesson references a diagram, look under the module folder for a `.png` or `.svg` beside the lesson file.
 
 Priority diagrams:

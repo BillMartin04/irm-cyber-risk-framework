@@ -4,6 +4,17 @@ description: Course roadmap and known open issues.
 
 # Roadmap and Issues
 
+
+{% hint style="info" %}
+### 📺 Watch on YouTube
+
+**Video title:** *Roadmap and Issues — Open Source Cybersecurity Contribution Explained (2026)*
+**Channel:** [TechTalk with Bill](https://www.youtube.com/@techtalkwithbill)
+**Length:** 8–12 min · **Status:** 🎬 In production — subscribe to be notified when this video is published.
+
+▶ [Subscribe to be notified](https://www.youtube.com/@techtalkwithbill?sub_confirmation=1) · ⭐ [Star the repo](https://github.com/BillMartin04/irm-cyber-risk-framework)
+{% endhint %}
+
 ## Roadmap
 
 - **Video production** — each lesson pairs with a short YouTube video. Videos are being produced module-by-module and embedded here as they land.

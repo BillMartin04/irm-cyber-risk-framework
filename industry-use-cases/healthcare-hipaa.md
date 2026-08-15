@@ -4,6 +4,17 @@ description: How the course modules land in healthcare under HIPAA.
 
 # Healthcare (HIPAA)
 
+
+{% hint style="info" %}
+### 📺 Watch on YouTube
+
+**Video title:** *Healthcare (HIPAA) — Cyber Risk Industry Use Cases Explained (2026)*
+**Channel:** [TechTalk with Bill](https://www.youtube.com/@techtalkwithbill)
+**Length:** 10–15 min · **Status:** 🎬 In production — subscribe to be notified when this video is published.
+
+▶ [Subscribe to be notified](https://www.youtube.com/@techtalkwithbill?sub_confirmation=1) · ⭐ [Star the repo](https://github.com/BillMartin04/irm-cyber-risk-framework)
+{% endhint %}
+
 Healthcare organisations govern **Protected Health Information (PHI)** under HIPAA in the US and equivalent statutes globally. The cyber-risk profile is dominated by ransomware exposure, medical-device (IoMT) sprawl, and workforce mobility.
 
 ## Priority modules for healthcare practitioners

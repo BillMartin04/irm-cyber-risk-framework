@@ -5,8 +5,15 @@ description: A practitioner masterclass in cyber risk, GRC, and ServiceNow IRM �
 # Welcome to the Cyber Risk & GRC Architect Masterclass
 
 {% hint style="info" %}
-**Videos are being produced.** Every lesson pairs a short video with a written explanation. Video links are placeholders until each recording is published to the [TechTalk with Bill YouTube channel](https://www.youtube.com/@techtalkwithbill). Subscribe to be notified as lessons go live.
+### 📺 Watch on YouTube
+
+**Video title:** *Welcome to the Cyber Risk & GRC Architect Masterclass — Cyber Risk Grc Architect Masterclass (2026)*
+**Channel:** [TechTalk with Bill](https://www.youtube.com/@techtalkwithbill)
+**Length:** 6–10 min · **Status:** 🎬 In production — subscribe to be notified when this video is published.
+
+▶ [Subscribe to be notified](https://www.youtube.com/@techtalkwithbill?sub_confirmation=1) · ⭐ [Star the repo](https://github.com/BillMartin04/irm-cyber-risk-framework)
 {% endhint %}
+
 
 This is a practitioner-grade masterclass in **cyber security governance, risk, and compliance (GRC)** — designed to take you from a working knowledge of GRC concepts to the ability to architect, deploy, and defend an enterprise-scale program on ServiceNow IRM and adjacent open-source tooling. It is written by an enterprise architect who runs ServiceNow IRM programs for regulated industries, and who publishes the [Lumina Cyber Risk portal](https://github.com/BillMartin04/lumina-cyber-risk) as an open-source reference implementation.
 

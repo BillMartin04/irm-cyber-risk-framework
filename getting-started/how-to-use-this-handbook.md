@@ -4,6 +4,17 @@ description: How to move through the course efficiently.
 
 # How to Use This Course
 
+
+{% hint style="info" %}
+### 📺 Watch on YouTube
+
+**Video title:** *How to Use This Course — Cyber Risk Course Roadmap Explained (2026)*
+**Channel:** [TechTalk with Bill](https://www.youtube.com/@techtalkwithbill)
+**Length:** 8–12 min · **Status:** 🎬 In production — subscribe to be notified when this video is published.
+
+▶ [Subscribe to be notified](https://www.youtube.com/@techtalkwithbill?sub_confirmation=1) · ⭐ [Star the repo](https://github.com/BillMartin04/irm-cyber-risk-framework)
+{% endhint %}
+
 ## The three-part rhythm — Watch, Read, Apply
 
 Every lesson is built for a 30 to 60 minute focused session:

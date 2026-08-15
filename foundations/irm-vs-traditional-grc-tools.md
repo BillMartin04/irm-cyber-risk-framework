@@ -4,6 +4,17 @@ description: How Integrated Risk Management (IRM) platforms differ from legacy G
 
 # IRM vs Traditional GRC Tools
 
+
+{% hint style="info" %}
+### 📺 Watch on YouTube
+
+**Video title:** *IRM vs Traditional GRC Tools — Cyber Risk Management Fundamentals Explained (2026)*
+**Channel:** [TechTalk with Bill](https://www.youtube.com/@techtalkwithbill)
+**Length:** 10–14 min · **Status:** 🎬 In production — subscribe to be notified when this video is published.
+
+▶ [Subscribe to be notified](https://www.youtube.com/@techtalkwithbill?sub_confirmation=1) · ⭐ [Star the repo](https://github.com/BillMartin04/irm-cyber-risk-framework)
+{% endhint %}
+
 Traditional GRC tools (Archer, MetricStream, older module-based platforms) treat risk, compliance, and audit as separate applications, each with its own data model, workflow, and reporting. **Integrated Risk Management (IRM)** platforms — ServiceNow IRM being the reference example — treat them as one linked graph on top of a shared CMDB and workflow engine.
 
 ## Why the shift matters

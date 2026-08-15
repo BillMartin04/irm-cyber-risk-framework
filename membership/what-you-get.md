@@ -4,6 +4,17 @@ description: What TechTalk with Bill YouTube membership adds to the course.
 
 # What You Get with Membership
 
+
+{% hint style="info" %}
+### 📺 Watch on YouTube
+
+**Video title:** *What You Get with Membership — Cybersecurity Youtube Membership Explained (2026)*
+**Channel:** [TechTalk with Bill](https://www.youtube.com/@techtalkwithbill)
+**Length:** 5–8 min · **Status:** 🎬 In production — subscribe to be notified when this video is published.
+
+▶ [Subscribe to be notified](https://www.youtube.com/@techtalkwithbill?sub_confirmation=1) · ⭐ [Star the repo](https://github.com/BillMartin04/irm-cyber-risk-framework)
+{% endhint %}
+
 The course itself is free and open source. **YouTube channel membership** on the [TechTalk with Bill channel](https://www.youtube.com/@techtalkwithbill/join) adds:
 
 - **Capstone review** — Bill reviews your Module 19 architecture deliverable and gives written feedback.

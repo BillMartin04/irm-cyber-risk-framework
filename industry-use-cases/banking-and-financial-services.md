@@ -4,6 +4,17 @@ description: How the course modules land in banking and financial services.
 
 # Banking and Financial Services
 
+
+{% hint style="info" %}
+### 📺 Watch on YouTube
+
+**Video title:** *Banking and Financial Services — Cyber Risk Industry Use Cases Explained (2026)*
+**Channel:** [TechTalk with Bill](https://www.youtube.com/@techtalkwithbill)
+**Length:** 10–15 min · **Status:** 🎬 In production — subscribe to be notified when this video is published.
+
+▶ [Subscribe to be notified](https://www.youtube.com/@techtalkwithbill?sub_confirmation=1) · ⭐ [Star the repo](https://github.com/BillMartin04/irm-cyber-risk-framework)
+{% endhint %}
+
 Banking and financial services (BFS) is the most demanding cyber-risk environment in most enterprise portfolios: multi-jurisdictional regulation, aggressive breach-notification timelines, systemic third-party risk, and executive personal liability under recent directives.
 
 ## Priority modules for BFS practitioners

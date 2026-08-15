@@ -4,6 +4,17 @@ description: ServiceNow update sets published alongside the course.
 
 # ServiceNow Update Sets
 
+
+{% hint style="info" %}
+### 📺 Watch on YouTube
+
+**Video title:** *ServiceNow Update Sets — Cybersecurity Certification Prep Explained (2026)*
+**Channel:** [TechTalk with Bill](https://www.youtube.com/@techtalkwithbill)
+**Length:** 8–14 min · **Status:** 🎬 In production — subscribe to be notified when this video is published.
+
+▶ [Subscribe to be notified](https://www.youtube.com/@techtalkwithbill?sub_confirmation=1) · ⭐ [Star the repo](https://github.com/BillMartin04/irm-cyber-risk-framework)
+{% endhint %}
+
 Update sets are published under the [course repository](https://github.com/BillMartin04/irm-cyber-risk-framework) as they are recorded.
 
 Planned update sets:
