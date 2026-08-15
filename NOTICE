@@ -1,0 +1,40 @@
+Cyber Risk & GRC Architect Masterclass
+======================================
+
+Original author and maintainer:
+    Bill Martin (TechTalk with Bill)
+    GitHub: https://github.com/BillMartin04
+    YouTube: https://www.youtube.com/@techtalkwithbill
+
+This is an open-source, open educational resource (OER) curriculum for
+enterprise cyber-security governance, risk, and compliance (GRC),
+integrated risk management (IRM) on ServiceNow, and AI risk governance.
+
+Repository:
+    https://github.com/BillMartin04/irm-cyber-risk-framework
+
+Companion open-source project:
+    Lumina Cyber Risk Portal
+    https://github.com/BillMartin04/lumina-cyber-risk
+
+Parallel open-source course:
+    ServiceNow CSA Course
+    https://github.com/BillMartin04/servicenow-csa-course
+
+    ServiceNow Developer Course
+    https://github.com/BillMartin04/servicenow-developer-course
+
+Licensing
+---------
+Course content: Creative Commons Attribution 4.0 International (CC BY 4.0)
+Source code and configuration: MIT License
+See LICENSE for full text.
+
+Attribution requirement
+-----------------------
+Any adaptation, redistribution, translation, or derivative work of the
+course content must credit the original author as follows:
+
+    "Cyber Risk & GRC Architect Masterclass by Bill Martin
+     (TechTalk with Bill), licensed under CC BY 4.0.
+     Source: https://github.com/BillMartin04/irm-cyber-risk-framework"

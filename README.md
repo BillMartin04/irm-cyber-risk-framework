@@ -1,47 +1,71 @@
 ---
-description: A hands-on, video-led handbook for Integrated Risk Management on ServiceNow.
+description: A practitioner masterclass in cyber risk, GRC, and ServiceNow IRM — built by a ServiceNow MVP and CTA-track architect.
 ---
 
-# Welcome
+# Welcome to the Cyber Risk & GRC Architect Masterclass
 
 {% hint style="info" %}
-**Videos coming soon.** Every page pairs a short video with a written explanation. Video links are placeholders until each video is published.
+**Videos are being produced.** Every lesson pairs a short video with a written explanation. Video links are placeholders until each recording is published to the [TechTalk with Bill YouTube channel](https://www.youtube.com/@techtalkwithbill). Subscribe to be notified as lessons go live.
 {% endhint %}
 
-This handbook walks you through building a real **Integrated Risk Management (IRM)** practice on **ServiceNow** — from foundations through executive reporting and strategy. It is written from the perspective of an enterprise architect with deep experience in banking, financial services, and large-scale ServiceNow IRM deployments. Every page is built for practitioners who need to move beyond theory and operate a defensible, audit-ready risk management program.
+This is a practitioner-grade masterclass in **cyber security governance, risk, and compliance (GRC)** — designed to take you from a working knowledge of GRC concepts to the ability to architect, deploy, and defend an enterprise-scale program on ServiceNow IRM and adjacent open-source tooling. It is written by an enterprise architect who runs ServiceNow IRM programs for regulated industries, and who publishes the [Lumina Cyber Risk portal](https://github.com/BillMartin04/lumina-cyber-risk) as an open-source reference implementation.
 
-## What you will find here
+## Who this is by
 
-The handbook is organized in a deliberate sequence. **Foundations** establish the vocabulary and mental models that every later chapter assumes — concepts like the Three Lines of Defense, cyber risk lifecycle, and how integrated risk management differs from the legacy GRC tools most organizations still rely on. **Series 1** is the hands-on build: standing up the platform, loading authority documents, building the risk register, configuring control objectives, running risk assessments, and generating executive-level reporting. **Industry Use Cases** apply the framework to specific banking and financial-services scenarios — third-party risk, operational risk, regulatory exam management, and more.
+This course is written by **Bill Martin — TechTalk with Bill**. Bill is a ServiceNow **MVP**, a **Certified Technical Architect (CTA)** track ServiceNow implementer, a **7× CIS-certified** ServiceNow specialist, and holds cyber-risk credentials from **Harvard (Cyber Risk in the Age of AI)** and **MIT (AI Strategy & Leadership)**. He is the author of the open-source Lumina Cyber Risk portal and a public contributor to OWASP's GenAI security work. Bill designs and deploys enterprise IRM programs in banking, financial services, and regulated industry, and this course is the distilled version of that field practice.
 
-Supporting sections on resources, templates, and community membership round out the experience.
+## What you will build
 
-## The Watch-Read-Apply model
+Twenty modules, roughly 100 video lessons, and a full portfolio of practitioner artefacts. When you finish you will be able to:
 
-Every page follows the same three-part pattern:
+- Architect a defensible GRC operating model aligned to the **Four Lines of Defense (4LOD)** — the model this course uses end-to-end.
+- Build a working enterprise Risk Register, Unified Control Framework, and Continuous Controls Monitoring (CCM) capability on **ServiceNow IRM**.
+- Quantify cyber risk in financial terms using **FAIR**, and defend the number in front of a board.
+- Govern AI adoption using **NIST AI RMF, ISO/IEC 42001, EU AI Act, and OWASP Top 10 for LLMs**.
+- Lead an **ISO/IEC 27001 (2022) certification** program end-to-end.
+- Package the whole capability into an **advisory practice** you can charge for.
 
-- **Watch** — A short, focused video demonstrates the concept or platform configuration being discussed. Videos are tied to a specific topic so you can return to them as reference any time.
-- **Read** — The written explanation on this page goes deeper than the video: definitions, design decisions, platform construct names, and the reasoning behind recommended approaches.
-- **Apply** — Each page closes with concrete takeaways you can act on immediately in your own ServiceNow instance, PDI, or design document.
+## Live in action — ServiceNow IRM and Lumina Cyber Risk
 
-The combination matters. Video is fast; text is searchable and precise. Using both together reinforces retention and gives you a reference you can share with colleagues who are not watching the videos.
+Every module points at a live implementation reference so the material is never theoretical.
 
-## What you will gain
+- **ServiceNow IRM** — Enterprise-grade platform. Modules 4, 5, 8, 12, and 15 walk you through the platform constructs directly.
+- **[Lumina Cyber Risk Portal](https://github.com/BillMartin04/lumina-cyber-risk)** — An open-source cyber-operational-risk portal Bill built and maintains. It ships a small, readable data model that mirrors the enterprise pattern, so you can fork it, adapt it, and demo it to clients. Every module lists which Lumina object is the reference implementation for that lesson.
+- **[TechTalk with Bill Membership](https://www.youtube.com/@techtalkwithbill/join)** — Paid membership tiers unlock capstone review, personalised feedback, and 1:1 architecture guidance.
 
-By working through this handbook you will be able to:
+## The Watch–Read–Apply model
 
-- Articulate the business case for IRM to executive stakeholders using shared vocabulary and defensible metrics.
-- Design and configure a ServiceNow IRM implementation that maps to real regulatory frameworks — NIST CSF, ISO 27001, SOC 2, PCI DSS, DORA, and others.
-- Build and maintain a Risk Register, Control Objective library, and KRI/Indicator set that survives audits and regulatory exams.
-- Operate across all Three Lines of Defense, with clear ownership of first-line control execution, second-line oversight, and third-line assurance.
-- Move from periodic, point-in-time assessments to a continuous monitoring posture — the standard increasingly demanded by regulators in financial services.
+Every lesson follows the same three-part shape:
+
+- **Watch** — A short, focused video on the concept or platform configuration.
+- **Read** — The written page goes deeper: definitions, design decisions, platform construct names, and the reasoning behind the recommended approach.
+- **Apply** — Each lesson closes with concrete actions you can complete in your own environment plus a **Done-When** check so you know when the lesson is truly finished.
+
+## Aligned to the Four Lines of Defense (4LOD)
+
+Every module in this course lists which line or lines of defense it primarily serves. Read the [4LOD frame page](getting-started/four-lines-of-defense.md) first — it is the shared vocabulary the rest of the course assumes.
+
+## Certifications this course helps you prepare for
+
+- **ServiceNow CSA** and **CIS-Risk & Compliance (CIS-RC)** — see the parallel [ServiceNow CSA Course](https://github.com/BillMartin04/servicenow-csa-course).
+- **ISO/IEC 27001 Lead Implementer** and **Lead Auditor** — Module 18 is the masterclass.
+- **CRISC**, **CISA**, **CISM** — the framework and audit modules map directly to the exam bodies of knowledge.
 
 ## How to navigate
 
-Use the left panel to move through sections in order or jump directly to a topic. If you are new to IRM or ServiceNow GRC, read the Foundations section first — skipping it makes the later platform content harder to follow. If you already have a working IRM instance and want to close specific gaps, the Learning Path Recommendations page maps your role and experience level to the right starting point.
+Use the left panel to move through modules in order or jump to the topic you need. New to GRC? Start with [Foundations](foundations/what-is-cyber-risk-management.md), then [Module 1](module-01-grc-foundations/README.md). Already running a GRC function and want to close a specific gap? Read the [Learning Path Recommendations](getting-started/learning-path-recommendations.md) page to find the fastest route in.
 
-New here? Start with [Who This Is For](getting-started/who-this-is-for.md) and the [Learning Path Recommendations](getting-started/learning-path-recommendations.md).
+## License and attribution
+
+This course is published as an open-source **Open Educational Resource (OER)**.
+
+- **Course content** (all written material, curriculum, lesson text, diagrams): **Creative Commons Attribution 4.0 International (CC BY 4.0)** — [creativecommons.org/licenses/by/4.0](https://creativecommons.org/licenses/by/4.0/).
+- **Source code, configuration, ServiceNow update sets, and scripts**: **MIT License**.
+
+**Copyright © 2026 Bill Martin (TechTalk with Bill).** All rights reserved except as granted under the licenses above. See [`LICENSE`](LICENSE), [`NOTICE`](NOTICE), and [`CITATION.cff`](CITATION.cff) for full terms and the recommended citation.
+
+Any adaptation, translation, or derivative work must credit the original author and link back to [github.com/BillMartin04/irm-cyber-risk-framework](https://github.com/BillMartin04/irm-cyber-risk-framework).
 
 ---
 
-*IRM & Cyber Risk Framework — TechTalk with Bill*
+*Cyber Risk & GRC Architect Masterclass — Build It The Right Way — by Bill Martin, TechTalk with Bill.*

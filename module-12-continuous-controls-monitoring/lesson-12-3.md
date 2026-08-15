@@ -1,0 +1,48 @@
+---
+description: API Integrations for Real-Time Telemetry (Cloud, IAM, Endpoint)
+---
+
+# 12.3 · API Integrations for Real-Time Telemetry (Cloud, IAM, Endpoint)
+
+{% hint style="success" %}
+**Module 12: Continuous Controls Monitoring** — 4LOD: 1st Line (Automated Telemetry) & 2nd Line (Continuous Compliance) · Persona: ServiceNow IRM Architects, GRC Automation Engineers, Tech Consultants
+{% endhint %}
+
+{% hint style="info" %}
+**Watch — 12.3 · API Integrations for Real-Time Telemetry (Cloud, IAM, Endpoint)**
+
+A short video lesson accompanies this page. Video links are placeholders until the recording is published to the [TechTalk with Bill YouTube channel](https://www.youtube.com/@techtalkwithbill). Subscribe to be notified when this lesson goes live.
+{% endhint %}
+## Read
+
+This lesson covers **API Integrations for Real-Time Telemetry (Cloud, IAM, Endpoint)** as part of the Continuous Controls Monitoring module. The line-of-defense frame for this material is 1st Line (Automated Telemetry) & 2nd Line (Continuous Compliance), which is why the primary audience is ServiceNow IRM Architects. Practitioners in adjacent lines of defense should also work through it — the biggest failure mode of a GRC program is when one line assumes another line has covered a control it has not.
+
+The mature operating pattern here is to treat the topic as a **repeatable design artefact**, not a one-time exercise. That means documented inputs, a defined decision authority, a governed output artefact, and a review cadence. Every enterprise-grade GRC program in this space eventually converges on that shape.
+
+The reading below covers the concept, the operating pattern that makes it defensible under audit, and the specific traps that catch teams building this capability for the first time.
+
+## ServiceNow Implementation Notes
+
+In a ServiceNow IRM deployment, the artefact that carries this capability should be modelled as a first-class record linked back to the Risk register and the Control Objective library. If your instance is holding this content in free-text description fields on unrelated records, you have a structural defect that will surface at the first audit.
+
+Design it once, promote it into the Control Objective library, and let recurring Assessments produce the evidence over time.
+
+## Live in Action — Lumina Cyber Risk (Open Source)
+
+The [Lumina Cyber Risk portal](https://github.com/BillMartin04/lumina-cyber-risk) demonstrates the same pattern in an open-source, minimally-sized data model. Use it as a reference implementation when the enterprise instance is too large to prototype in directly.
+
+## Apply
+
+- Sketch this artefact for your own organisation using one real risk from your register as the worked example.
+- Identify the accountable owner (by name, not by role) and the review cadence you will enforce.
+- Add the artefact to your GRC operating calendar so it does not silently drop off.
+
+## Done When
+
+- You can produce this artefact for a new risk in less than an hour.
+- You know who signs off on it and when it next needs to be refreshed.
+
+
+---
+
+[← 12.2 Modern GRC Platform Architectures: ServiceNow IRM, Vanta, Drata](lesson-12-2.md) · [12.4 Designing Automated Control Tests and KRI / KPI Indicators →](lesson-12-4.md)

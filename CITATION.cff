@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+title: "Cyber Risk & GRC Architect Masterclass"
+message: >-
+  If you use this course, its curriculum, or any derivative work in
+  teaching, research, professional development, consulting, or
+  regulatory submissions, please cite it using the metadata below.
+type: dataset
+authors:
+  - family-names: Martin
+    given-names: Bill
+    alias: TechTalk with Bill
+    website: "https://www.youtube.com/@techtalkwithbill"
+    affiliation: "MFEC (ServiceNow Systems Integration)"
+repository-code: "https://github.com/BillMartin04/irm-cyber-risk-framework"
+url: "https://build-it-the-right-way.gitbook.io/"
+abstract: >-
+  A practitioner-grade, open-source masterclass in enterprise cyber-risk
+  governance, risk, and compliance (GRC), aligned to the Four Lines of
+  Defense (4LOD) model. Twenty modules covering NIST CSF 2.0, ISO/IEC
+  27001, CIS Controls, PCI DSS, HIPAA, SOC 2, DORA, NIS2, SEC cyber
+  disclosure, FAIR risk quantification, AI governance (NIST AI RMF,
+  ISO/IEC 42001, EU AI Act, OWASP Top 10 for LLMs), Continuous Controls
+  Monitoring, ServiceNow IRM architecture, and consulting practice
+  building. Companion open-source reference implementation:
+  Lumina Cyber Risk Portal.
+keywords:
+  - cyber risk
+  - governance risk compliance
+  - GRC
+  - integrated risk management
+  - IRM
+  - ServiceNow
+  - ISO 27001
+  - NIST CSF
+  - FAIR
+  - AI governance
+  - open educational resource
+license: CC-BY-4.0
+license-url: "https://creativecommons.org/licenses/by/4.0/"
+version: "1.0.0"
+date-released: "2026-08-15"
