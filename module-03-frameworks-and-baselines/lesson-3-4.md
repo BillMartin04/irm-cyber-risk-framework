@@ -1,5 +1,5 @@
 ---
-description: Industry-Specific Baselines: PCI DSS v4.0, HIPAA Security Rule, SOC 2 Type II
+description: 'Industry-Specific Baselines: PCI DSS v4.0, HIPAA Security Rule, SOC 2 Type II'
 ---
 
 # 3.4 · Industry-Specific Baselines: PCI DSS v4.0, HIPAA Security Rule, SOC 2 Type II

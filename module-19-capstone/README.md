@@ -1,5 +1,5 @@
 ---
-description: Capstone: End-to-End Enterprise GRC Architecture Project
+description: 'Capstone: End-to-End Enterprise GRC Architecture Project'
 ---
 
 # Module 19: Capstone

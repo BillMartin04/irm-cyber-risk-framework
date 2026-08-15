@@ -1,5 +1,5 @@
 ---
-description: Measuring Human Risk: Human Security Index and Behavioral Analytics
+description: 'Measuring Human Risk: Human Security Index and Behavioral Analytics'
 ---
 
 # 16.5 · Measuring Human Risk: Human Security Index and Behavioral Analytics

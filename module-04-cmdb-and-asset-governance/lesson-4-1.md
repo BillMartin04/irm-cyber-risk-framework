@@ -1,5 +1,5 @@
 ---
-description: Asset Discovery: Hardware, Software, Cloud Resources, and Data Stores
+description: 'Asset Discovery: Hardware, Software, Cloud Resources, and Data Stores'
 ---
 
 # 4.1 · Asset Discovery: Hardware, Software, Cloud Resources, and Data Stores

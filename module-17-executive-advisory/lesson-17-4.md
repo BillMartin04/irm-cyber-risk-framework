@@ -1,5 +1,5 @@
 ---
-description: Strategy Execution: Aligning Security Architecture with Business Strategy
+description: 'Strategy Execution: Aligning Security Architecture with Business Strategy'
 ---
 
 # 17.4 · Strategy Execution: Aligning Security Architecture with Business Strategy

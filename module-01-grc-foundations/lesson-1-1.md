@@ -1,5 +1,5 @@
 ---
-description: The GRC Ecosystem: Governance, Risk Management, and Compliance Definitions
+description: 'The GRC Ecosystem: Governance, Risk Management, and Compliance Definitions'
 ---
 
 # 1.1 · The GRC Ecosystem: Governance, Risk Management, and Compliance Definitions

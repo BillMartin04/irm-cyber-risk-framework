@@ -1,5 +1,5 @@
 ---
-description: Organizational Structures: Board, CISO, CIO, and Audit Committees
+description: 'Organizational Structures: Board, CISO, CIO, and Audit Committees'
 ---
 
 # 1.3 · Organizational Structures: Board, CISO, CIO, and Audit Committees

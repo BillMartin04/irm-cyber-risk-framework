@@ -1,5 +1,5 @@
 ---
-description: Incident Response Lifecycle: Preparation, Detection, Containment, Eradication, Recovery
+description: 'Incident Response Lifecycle: Preparation, Detection, Containment, Eradication, Recovery'
 ---
 
 # 8.2 · Incident Response Lifecycle: Preparation, Detection, Containment, Eradication, Recovery

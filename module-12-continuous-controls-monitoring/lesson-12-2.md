@@ -1,5 +1,5 @@
 ---
-description: Modern GRC Platform Architectures: ServiceNow IRM, Vanta, Drata
+description: 'Modern GRC Platform Architectures: ServiceNow IRM, Vanta, Drata'
 ---
 
 # 12.2 · Modern GRC Platform Architectures: ServiceNow IRM, Vanta, Drata

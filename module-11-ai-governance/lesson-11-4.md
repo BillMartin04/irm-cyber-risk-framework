@@ -1,5 +1,5 @@
 ---
-description: EU AI Act: Risk Categories, Compliance Mandates, and Penalties
+description: 'EU AI Act: Risk Categories, Compliance Mandates, and Penalties'
 ---
 
 # 11.4 · EU AI Act: Risk Categories, Compliance Mandates, and Penalties

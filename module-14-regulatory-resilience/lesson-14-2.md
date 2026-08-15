@@ -1,5 +1,5 @@
 ---
-description: SEC Cyber Disclosure Mandates: Form 8-K 4-Day Rule, Form 10-K Governance
+description: 'SEC Cyber Disclosure Mandates: Form 8-K 4-Day Rule, Form 10-K Governance'
 ---
 
 # 14.2 · SEC Cyber Disclosure Mandates: Form 8-K 4-Day Rule, Form 10-K Governance

@@ -1,5 +1,5 @@
 ---
-description: Audit Lifecycle: Scoping, Planning, Fieldwork, Reporting, Closeout
+description: 'Audit Lifecycle: Scoping, Planning, Fieldwork, Reporting, Closeout'
 ---
 
 # 15.1 · Audit Lifecycle: Scoping, Planning, Fieldwork, Reporting, Closeout

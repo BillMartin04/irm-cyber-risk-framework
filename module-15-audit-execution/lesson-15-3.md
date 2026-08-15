@@ -1,5 +1,5 @@
 ---
-description: Control Testing: Design Effectiveness (TOD) vs Operating Effectiveness (TOE)
+description: 'Control Testing: Design Effectiveness (TOD) vs Operating Effectiveness (TOE)'
 ---
 
 # 15.3 · Control Testing: Design Effectiveness (TOD) vs Operating Effectiveness (TOE)

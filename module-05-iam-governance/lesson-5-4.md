@@ -1,5 +1,5 @@
 ---
-description: Identity Lifecycle: Joiners, Movers, Leavers (JML) Workflows
+description: 'Identity Lifecycle: Joiners, Movers, Leavers (JML) Workflows'
 ---
 
 # 5.4 · Identity Lifecycle: Joiners, Movers, Leavers (JML) Workflows

@@ -1,5 +1,5 @@
 ---
-description: Multi-Cloud Compliance: AWS Well-Architected, Azure Security Benchmark, GCP
+description: 'Multi-Cloud Compliance: AWS Well-Architected, Azure Security Benchmark, GCP'
 ---
 
 # 13.3 · Multi-Cloud Compliance: AWS Well-Architected, Azure Security Benchmark, GCP

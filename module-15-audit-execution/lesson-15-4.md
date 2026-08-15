@@ -1,5 +1,5 @@
 ---
-description: Writing Audit Findings: Condition, Criteria, Cause, Effect, Recommendation
+description: 'Writing Audit Findings: Condition, Criteria, Cause, Effect, Recommendation'
 ---
 
 # 15.4 · Writing Audit Findings: Condition, Criteria, Cause, Effect, Recommendation

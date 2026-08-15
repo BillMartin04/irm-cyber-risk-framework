@@ -1,5 +1,5 @@
 ---
-description: GRC Interview Mastery: Behavioral, Technical, Architecture Scenarios
+description: 'GRC Interview Mastery: Behavioral, Technical, Architecture Scenarios'
 ---
 
 # 20.4 · GRC Interview Mastery: Behavioral, Technical, Architecture Scenarios

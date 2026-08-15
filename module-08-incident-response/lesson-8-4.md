@@ -1,5 +1,5 @@
 ---
-description: Tabletop Exercise Design: Scenarios, Facilitation, and Scoring
+description: 'Tabletop Exercise Design: Scenarios, Facilitation, and Scoring'
 ---
 
 # 8.4 · Tabletop Exercise Design: Scenarios, Facilitation, and Scoring

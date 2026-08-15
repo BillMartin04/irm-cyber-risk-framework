@@ -1,5 +1,5 @@
 ---
-description: Cryptographic Controls: Data at Rest, in Transit, and Key Management
+description: 'Cryptographic Controls: Data at Rest, in Transit, and Key Management'
 ---
 
 # 6.4 · Cryptographic Controls: Data at Rest, in Transit, and Key Management

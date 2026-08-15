@@ -1,5 +1,5 @@
 ---
-description: Risk Treatment Strategies: Accept, Mitigate, Transfer, Avoid
+description: 'Risk Treatment Strategies: Accept, Mitigate, Transfer, Avoid'
 ---
 
 # 2.5 · Risk Treatment Strategies: Accept, Mitigate, Transfer, Avoid

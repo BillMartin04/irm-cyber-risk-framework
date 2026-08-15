@@ -1,5 +1,5 @@
 ---
-description: DORA: Technical Standards and Resilience Testing
+description: 'DORA: Technical Standards and Resilience Testing'
 ---
 
 # 14.1 · DORA: Technical Standards and Resilience Testing

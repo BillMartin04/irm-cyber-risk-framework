@@ -1,5 +1,5 @@
 ---
-description: The Enterprise AI Governance Gap: Shadow AI vs Approved Models
+description: 'The Enterprise AI Governance Gap: Shadow AI vs Approved Models'
 ---
 
 # 11.1 · The Enterprise AI Governance Gap: Shadow AI vs Approved Models

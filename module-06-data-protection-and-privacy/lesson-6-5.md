@@ -1,5 +1,5 @@
 ---
-description: Global Privacy Alignments: GDPR, CCPA, and Privacy Impact Assessments
+description: 'Global Privacy Alignments: GDPR, CCPA, and Privacy Impact Assessments'
 ---
 
 # 6.5 · Global Privacy Alignments: GDPR, CCPA, and Privacy Impact Assessments

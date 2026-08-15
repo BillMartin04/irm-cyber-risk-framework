@@ -1,5 +1,5 @@
 ---
-description: NIST CSF 2.0: Govern, Identify, Protect, Detect, Respond, Recover
+description: 'NIST CSF 2.0: Govern, Identify, Protect, Detect, Respond, Recover'
 ---
 
 # 3.1 · NIST CSF 2.0: Govern, Identify, Protect, Detect, Respond, Recover

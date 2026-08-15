@@ -1,5 +1,5 @@
 ---
-description: NIS2 Directive: Compliance Requirements and Executive Liability
+description: 'NIS2 Directive: Compliance Requirements and Executive Liability'
 ---
 
 # 14.3 · NIS2 Directive: Compliance Requirements and Executive Liability

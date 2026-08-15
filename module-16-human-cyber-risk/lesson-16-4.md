@@ -1,5 +1,5 @@
 ---
-description: Security Champions Programs: Scaling GRC into Engineering and Business Units
+description: 'Security Champions Programs: Scaling GRC into Engineering and Business Units'
 ---
 
 # 16.4 · Security Champions Programs: Scaling GRC into Engineering and Business Units

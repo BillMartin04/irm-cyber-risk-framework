@@ -1,5 +1,5 @@
 ---
-description: Final Deliverable: Executive Summary, Board Deck, and Implementation Roadmap
+description: 'Final Deliverable: Executive Summary, Board Deck, and Implementation Roadmap'
 ---
 
 # 19.5 · Final Deliverable: Executive Summary, Board Deck, and Implementation Roadmap

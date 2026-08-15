@@ -1,5 +1,5 @@
 ---
-description: OWASP Top 10 for LLMs: Prompt Injection, Data Poisoning, Insecure Output
+description: 'OWASP Top 10 for LLMs: Prompt Injection, Data Poisoning, Insecure Output'
 ---
 
 # 11.3 · OWASP Top 10 for LLMs: Prompt Injection, Data Poisoning, Insecure Output

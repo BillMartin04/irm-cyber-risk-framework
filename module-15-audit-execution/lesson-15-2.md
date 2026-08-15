@@ -1,5 +1,5 @@
 ---
-description: Gathering Audit Evidence: Sampling, Interviews, System Outputs
+description: 'Gathering Audit Evidence: Sampling, Interviews, System Outputs'
 ---
 
 # 15.2 · Gathering Audit Evidence: Sampling, Interviews, System Outputs

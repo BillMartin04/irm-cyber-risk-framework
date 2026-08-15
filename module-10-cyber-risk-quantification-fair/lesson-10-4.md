@@ -1,5 +1,5 @@
 ---
-description: Modeling Loss Magnitude: Primary vs Secondary Losses
+description: 'Modeling Loss Magnitude: Primary vs Secondary Losses'
 ---
 
 # 10.4 · Modeling Loss Magnitude: Primary vs Secondary Losses

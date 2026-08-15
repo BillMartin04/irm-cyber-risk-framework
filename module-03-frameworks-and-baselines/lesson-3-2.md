@@ -1,5 +1,5 @@
 ---
-description: ISO/IEC 27001:2022 Structure, Clauses, and Control Sets
+description: 'ISO/IEC 27001:2022 Structure, Clauses, and Control Sets'
 ---
 
 # 3.2 · ISO/IEC 27001:2022 Structure, Clauses, and Control Sets

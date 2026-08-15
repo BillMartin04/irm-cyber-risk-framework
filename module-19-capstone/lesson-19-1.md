@@ -1,5 +1,5 @@
 ---
-description: Project Kickoff: Target Organization Profile and Threat Modeling
+description: 'Project Kickoff: Target Organization Profile and Threat Modeling'
 ---
 
 # 19.1 · Project Kickoff: Target Organization Profile and Threat Modeling
