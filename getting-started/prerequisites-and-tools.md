@@ -9,17 +9,17 @@ description: What you need on hand before starting.
 ### 📺 Watch on YouTube
 
 **Video title:** *Prerequisites and Tools — Cyber Risk Course Roadmap Explained (2026)*
-**Channel:** [TechTalk with Bill](https://www.youtube.com/@techtalkwithbill)
+**Channel:** [TechTalk with Bill](https://www.youtube.com/channel/UCMf7pje1x5iZkkEF-Y3PLSA)
 **Length:** 8–12 min · **Status:** 🎬 In production — subscribe to be notified when this video is published.
 
-▶ [Subscribe to be notified](https://www.youtube.com/@techtalkwithbill?sub_confirmation=1) · ⭐ [Star the repo](https://github.com/BillMartin04/irm-cyber-risk-framework)
+▶ [Subscribe to be notified](https://www.youtube.com/channel/UCMf7pje1x5iZkkEF-Y3PLSA?sub_confirmation=1) · ⭐ [Star the repo](https://github.com/BillMartin04/irm-cyber-risk-framework)
 {% endhint %}
 
 ## Accounts
 
 - **ServiceNow Personal Developer Instance (PDI)** — free, from [developer.servicenow.com](https://developer.servicenow.com). You will use it for hands-on modules (CMDB, IRM, Vulnerability Response).
 - **GitHub account** — to fork the [Lumina Cyber Risk repo](https://github.com/BillMartin04/lumina-cyber-risk) and this course repo.
-- **YouTube account** — to watch the lesson videos on the [TechTalk with Bill channel](https://www.youtube.com/@techtalkwithbill).
+- **YouTube account** — to watch the lesson videos on the [TechTalk with Bill channel](https://www.youtube.com/channel/UCMf7pje1x5iZkkEF-Y3PLSA).
 
 ## Tooling
 

@@ -8,10 +8,10 @@ description: A practitioner masterclass in cyber risk, GRC, and ServiceNow IRM �
 ### 📺 Watch on YouTube
 
 **Video title:** *Welcome to the Cyber Risk & GRC Architect Masterclass — Cyber Risk Grc Architect Masterclass (2026)*
-**Channel:** [TechTalk with Bill](https://www.youtube.com/@techtalkwithbill)
+**Channel:** [TechTalk with Bill](https://www.youtube.com/channel/UCMf7pje1x5iZkkEF-Y3PLSA)
 **Length:** 6–10 min · **Status:** 🎬 In production — subscribe to be notified when this video is published.
 
-▶ [Subscribe to be notified](https://www.youtube.com/@techtalkwithbill?sub_confirmation=1) · ⭐ [Star the repo](https://github.com/BillMartin04/irm-cyber-risk-framework)
+▶ [Subscribe to be notified](https://www.youtube.com/channel/UCMf7pje1x5iZkkEF-Y3PLSA?sub_confirmation=1) · ⭐ [Star the repo](https://github.com/BillMartin04/irm-cyber-risk-framework)
 {% endhint %}
 
 
@@ -38,7 +38,7 @@ Every module points at a live implementation reference so the material is never 
 
 - **ServiceNow IRM** — Enterprise-grade platform. Modules 4, 5, 8, 12, and 15 walk you through the platform constructs directly.
 - **[Lumina Cyber Risk Portal](https://github.com/BillMartin04/lumina-cyber-risk)** — An open-source cyber-operational-risk portal Bill built and maintains. It ships a small, readable data model that mirrors the enterprise pattern, so you can fork it, adapt it, and demo it to clients. Every module lists which Lumina object is the reference implementation for that lesson.
-- **[TechTalk with Bill Membership](https://www.youtube.com/@techtalkwithbill/join)** — Paid membership tiers unlock capstone review, personalised feedback, and 1:1 architecture guidance.
+- **[TechTalk with Bill Membership](https://www.youtube.com/channel/UCMf7pje1x5iZkkEF-Y3PLSA/join)** — Paid membership tiers unlock capstone review, personalised feedback, and 1:1 architecture guidance.
 
 ## The Watch–Read–Apply model
 

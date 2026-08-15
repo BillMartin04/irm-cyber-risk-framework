@@ -9,10 +9,10 @@ description: Open-source license, copyright, and how to cite this course.
 ### 📺 Watch on YouTube
 
 **Video title:** *License, Attribution, and Citation — Open Source Cyber Risk License Explained (2026)*
-**Channel:** [TechTalk with Bill](https://www.youtube.com/@techtalkwithbill)
+**Channel:** [TechTalk with Bill](https://www.youtube.com/channel/UCMf7pje1x5iZkkEF-Y3PLSA)
 **Length:** 6–10 min · **Status:** 🎬 In production — subscribe to be notified when this video is published.
 
-▶ [Subscribe to be notified](https://www.youtube.com/@techtalkwithbill?sub_confirmation=1) · ⭐ [Star the repo](https://github.com/BillMartin04/irm-cyber-risk-framework)
+▶ [Subscribe to be notified](https://www.youtube.com/channel/UCMf7pje1x5iZkkEF-Y3PLSA?sub_confirmation=1) · ⭐ [Star the repo](https://github.com/BillMartin04/irm-cyber-risk-framework)
 {% endhint %}
 
 ## Open-source license
@@ -37,7 +37,7 @@ All rights reserved except as granted under the CC BY 4.0 and MIT licenses.
 **Bill Martin** — *TechTalk with Bill*
 
 - GitHub: [github.com/BillMartin04](https://github.com/BillMartin04)
-- YouTube: [youtube.com/@techtalkwithbill](https://www.youtube.com/@techtalkwithbill)
+- YouTube: [youtube.com/TechTalk with Bill](https://www.youtube.com/channel/UCMf7pje1x5iZkkEF-Y3PLSA)
 - Credentials: ServiceNow **MVP**, ServiceNow **CTA-track** architect, **7× CIS-certified** ServiceNow specialist, **Harvard** (Cyber Risk in the Age of AI), **MIT** (AI Strategy & Leadership).
 - Author and maintainer of the [Lumina Cyber Risk Portal](https://github.com/BillMartin04/lumina-cyber-risk) — a companion open-source cyber-operational-risk portal referenced throughout this course.
 - Author and maintainer of the [ServiceNow CSA Course](https://github.com/BillMartin04/servicenow-csa-course) and [ServiceNow Developer Course](https://github.com/BillMartin04/servicenow-developer-course).

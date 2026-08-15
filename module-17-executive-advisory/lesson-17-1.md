@@ -12,7 +12,7 @@ description: Translating Technical Risk Metrics into Business Impact and Profit 
 ### 📺 Watch on YouTube
 
 **Video title:** *Translating Technical Risk Metrics into Business Impact and Profit Protection — Ciso Board Reporting (2026)*
-**Channel:** [TechTalk with Bill](https://www.youtube.com/@techtalkwithbill)
+**Channel:** [TechTalk with Bill](https://www.youtube.com/channel/UCMf7pje1x5iZkkEF-Y3PLSA)
 **Length:** 10–15 min · **Status:** 🎬 In production — subscribe to be notified when this video is published.
 
 **Chapters** (planned)
@@ -24,7 +24,7 @@ description: Translating Technical Risk Metrics into Business Impact and Profit 
 - 10:30 Apply this at your organisation this week
 - 12:00 Done-When checklist & next lesson
 
-▶ [Subscribe to be notified](https://www.youtube.com/@techtalkwithbill?sub_confirmation=1) · ⭐ [Star the repo](https://github.com/BillMartin04/irm-cyber-risk-framework) · 💬 [Suggest a topic](https://github.com/BillMartin04/irm-cyber-risk-framework/issues)
+▶ [Subscribe to be notified](https://www.youtube.com/channel/UCMf7pje1x5iZkkEF-Y3PLSA?sub_confirmation=1) · ⭐ [Star the repo](https://github.com/BillMartin04/irm-cyber-risk-framework) · 💬 [Suggest a topic](https://github.com/BillMartin04/irm-cyber-risk-framework/issues)
 {% endhint %}
 ## Read
 

@@ -9,10 +9,10 @@ description: How to move through the course efficiently.
 ### 📺 Watch on YouTube
 
 **Video title:** *How to Use This Course — Cyber Risk Course Roadmap Explained (2026)*
-**Channel:** [TechTalk with Bill](https://www.youtube.com/@techtalkwithbill)
+**Channel:** [TechTalk with Bill](https://www.youtube.com/channel/UCMf7pje1x5iZkkEF-Y3PLSA)
 **Length:** 8–12 min · **Status:** 🎬 In production — subscribe to be notified when this video is published.
 
-▶ [Subscribe to be notified](https://www.youtube.com/@techtalkwithbill?sub_confirmation=1) · ⭐ [Star the repo](https://github.com/BillMartin04/irm-cyber-risk-framework)
+▶ [Subscribe to be notified](https://www.youtube.com/channel/UCMf7pje1x5iZkkEF-Y3PLSA?sub_confirmation=1) · ⭐ [Star the repo](https://github.com/BillMartin04/irm-cyber-risk-framework)
 {% endhint %}
 
 ## The three-part rhythm — Watch, Read, Apply

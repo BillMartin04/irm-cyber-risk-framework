@@ -9,10 +9,10 @@ description: Lumina Cyber Risk — the open-source portal that reflects this cou
 ### 📺 Watch on YouTube
 
 **Video title:** *Lumina Cyber Risk Portal — Open Source Cyber Risk Tool Explained (2026)*
-**Channel:** [TechTalk with Bill](https://www.youtube.com/@techtalkwithbill)
+**Channel:** [TechTalk with Bill](https://www.youtube.com/channel/UCMf7pje1x5iZkkEF-Y3PLSA)
 **Length:** 12–18 min · **Status:** 🎬 In production — subscribe to be notified when this video is published.
 
-▶ [Subscribe to be notified](https://www.youtube.com/@techtalkwithbill?sub_confirmation=1) · ⭐ [Star the repo](https://github.com/BillMartin04/irm-cyber-risk-framework)
+▶ [Subscribe to be notified](https://www.youtube.com/channel/UCMf7pje1x5iZkkEF-Y3PLSA?sub_confirmation=1) · ⭐ [Star the repo](https://github.com/BillMartin04/irm-cyber-risk-framework)
 {% endhint %}
 
 **Repo:** [github.com/BillMartin04/lumina-cyber-risk](https://github.com/BillMartin04/lumina-cyber-risk)

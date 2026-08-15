@@ -26,7 +26,7 @@ All source code, configuration files, ServiceNow update sets, and machine-execut
 **Copyright © 2026 Bill Martin (TechTalk with Bill).**
 
 - GitHub: [github.com/BillMartin04](https://github.com/BillMartin04)
-- YouTube: [youtube.com/@techtalkwithbill](https://www.youtube.com/@techtalkwithbill)
+- YouTube: [youtube.com/TechTalk with Bill](https://www.youtube.com/channel/UCMf7pje1x5iZkkEF-Y3PLSA)
 
 ## Citation
 

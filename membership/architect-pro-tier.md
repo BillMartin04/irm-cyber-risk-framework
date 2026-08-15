@@ -9,10 +9,10 @@ description: The Architect Pro membership tier.
 ### 📺 Watch on YouTube
 
 **Video title:** *Architect Pro Tier — Cybersecurity Youtube Membership Explained (2026)*
-**Channel:** [TechTalk with Bill](https://www.youtube.com/@techtalkwithbill)
+**Channel:** [TechTalk with Bill](https://www.youtube.com/channel/UCMf7pje1x5iZkkEF-Y3PLSA)
 **Length:** 5–8 min · **Status:** 🎬 In production — subscribe to be notified when this video is published.
 
-▶ [Subscribe to be notified](https://www.youtube.com/@techtalkwithbill?sub_confirmation=1) · ⭐ [Star the repo](https://github.com/BillMartin04/irm-cyber-risk-framework)
+▶ [Subscribe to be notified](https://www.youtube.com/channel/UCMf7pje1x5iZkkEF-Y3PLSA?sub_confirmation=1) · ⭐ [Star the repo](https://github.com/BillMartin04/irm-cyber-risk-framework)
 {% endhint %}
 
 The mid tier, aimed at working ServiceNow IRM architects and GRC practitioners.
@@ -23,6 +23,6 @@ Includes everything in CSA Student, plus:
 - Written review of your Module 19 capstone deliverable.
 - Early access to update sets and templates.
 
-Sign up on the [TechTalk with Bill YouTube membership page](https://www.youtube.com/@techtalkwithbill/join).
+Sign up on the [TechTalk with Bill YouTube membership page](https://www.youtube.com/channel/UCMf7pje1x5iZkkEF-Y3PLSA/join).
 
 [← Course Home](../README.md)
